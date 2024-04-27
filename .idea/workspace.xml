@@ -34,14 +34,907 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_inject_guice_4_0_no_aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Medicine-Time-Android-App-Project.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Medicine-Time-Android-App-Project.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Medicine-Time-Android-App-Project.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderActivity_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineActivity_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter$MedicineViewHolder_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineFragment_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/report/HistoryAdapter$HistoryViewHolder_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportActivity_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportFragment_ViewBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/mock/debug/com/Shivraj/medicinetime/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/mockDebug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/apk_list/mockDebug/apk-list.gson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-as.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-en-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-en-rGB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-en-rXC.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-es-rUS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-fr-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-h360dp-land-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-h480dp-land-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-h720dp-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-hdpi-v4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-iw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-land.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-large-v4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ldltr-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-night-v8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-port.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-small-v4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-sw600dp-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-v28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-w360dp-port-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-w480dp-port-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-watch-v20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-watch-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-xlarge-v4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-zh-rHK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values-zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/multi-v2/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/mock/debug/single/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/mockDebug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/mockDebug/bundle-manifest/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/mockDebug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/mockDebug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dex/mockDebug/out/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/mockDebug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/mockDebug/out/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-af/values-af.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-as/values-as.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-be/values-be.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-bg/values-bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-bn/values-bn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-bs/values-bs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ca/values-ca.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-et/values-et.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-eu/values-eu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-fi/values-fi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-gu/values-gu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-hy/values-hy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-in/values-in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-is/values-is.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-kk/values-kk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-km/values-km.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-kn/values-kn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ky/values-ky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-land/values-land.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-lo/values-lo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-lv/values-lv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-mk/values-mk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ml/values-ml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-mn/values-mn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-mr/values-mr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ms/values-ms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ne/values-ne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-or/values-or.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-pa/values-pa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-port/values-port.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-pt/values-pt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ru/values-ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-si/values-si.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-small-v4/values-small-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sq/values-sq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ta/values-ta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-te/values-te.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v16/values-v16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v17/values-v17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v18/values-v18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v22/values-v22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v23/values-v23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v24/values-v24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v25/values-v25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v26/values-v26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-v28/values-v28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeMockDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/+UZLv4EZ4DCww+MEf3dCmIlamr0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/+n6t0rbjzILDiqXBPQ1S+H+xrfk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/+r6PLtRbPlIVxA9hVP6LmdRgCdg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/1JWQdj6mXqycHps7Sb_v+JSX8fc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/2sAJ9EGWmAubX6KCkJydhvYKFrI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/3i68GRIRPX5t8FxmvfKFgdzqh3c=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/83AcshoQ3Kfpy9oMszjNGyuc_3g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/9L8Cv8QN1iQ5SDzOeX2UmmA64qE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/9x0lB0_xdnxFJkHmYTRcLZ4X9ac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/AnTMW2xWJn8frzd6mnV9j+UrsLI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/D48lULXYUxXeg+0_1n+k9uCiIEM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/EXWk9hD7ClWq3NqECEmWjLgxVPA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/F+LpXv5CYMFYnOE4oAlFMZ3oxfg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/GX_U5RpfrKfd8uki0vm7OidW9+w=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/H6IAqRfbgVzOifwqIMZFkOtaicQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/I6yMMfXwt7GX4mzDgyrlDbu+BSc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/Iu2rbZ0zZMTIhoT45IivT+JLAt4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/JD+mKzwU86ZpWm0dUZVl6s1PcuU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/JWct57nVLXlUX1akRVGUu5wANUo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/JiZ7vZP6CiqeOCsXO8AJRTYjzUA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/LxeSlHQz0qJgbxisMix0zDDH7og=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/NbMQfNxp+i14MQe64ug1AQxxKmY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/R4ALVKt7kPgACcwU5+GItMhx2ps=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/R5UatSAYG+jRRoiJ+nnxYZ_c9x0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/Ruxd8NP+LxM2usW9Q70I1JCIubs=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/SRa78CHPukj5UGZK3WwqBNIFlFk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/TR8tsVpv23Hjq6G84ithi_ETero=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/VgnamH2ZRMpMbcSDWNV7_dGemgk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/XN57M2ycGKM+83i5hvbzSzTOiG4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/Z06Q7jlYpFvGdqLc+p7dpBLhzr0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/ZNq0pz4_gJ3Donq9gddQ+c6bEGA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/Zn8Q81QevxICx_hwVYO7is18l7M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/bPOSTNJqvx02phpktggjyGyVeLU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/cwBlRIfmpqbAXWk+rd6d5Is+z1M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/d5_oqaorOnnSbDSG+c8FavS7JIE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/eCsDNYEXlqk+VruLd8jRUjOKKrg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/hWFeXB6_GemGpUwGTudVX2bWKkU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/mwNkD5m86gBOS80E9BDh9N2Vggg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/oPq+LNhDExd1PvJm7EG8Xyijgys=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/q4Ey4LFrGAFVQeE0ZJRJEb+V20g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/tgPtELiJ5xTyzVsAdPGgk5dHfo0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/uaxOI272VoaK+dYKNP1sdICLQQY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/ufTDGs7umBjB3Tr_0pPNj3oeTjw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeJavaRes/zip-cache/zakUM6aBhsyiqdfADb7L2q+t9bM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/+UZLv4EZ4DCww+MEf3dCmIlamr0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/+n6t0rbjzILDiqXBPQ1S+H+xrfk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/+r6PLtRbPlIVxA9hVP6LmdRgCdg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/1JWQdj6mXqycHps7Sb_v+JSX8fc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/2sAJ9EGWmAubX6KCkJydhvYKFrI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/3i68GRIRPX5t8FxmvfKFgdzqh3c=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/83AcshoQ3Kfpy9oMszjNGyuc_3g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/9L8Cv8QN1iQ5SDzOeX2UmmA64qE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/9x0lB0_xdnxFJkHmYTRcLZ4X9ac=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/AnTMW2xWJn8frzd6mnV9j+UrsLI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/D48lULXYUxXeg+0_1n+k9uCiIEM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/EXWk9hD7ClWq3NqECEmWjLgxVPA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/F+LpXv5CYMFYnOE4oAlFMZ3oxfg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/GX_U5RpfrKfd8uki0vm7OidW9+w=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/H6IAqRfbgVzOifwqIMZFkOtaicQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/I6yMMfXwt7GX4mzDgyrlDbu+BSc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/Iu2rbZ0zZMTIhoT45IivT+JLAt4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/JD+mKzwU86ZpWm0dUZVl6s1PcuU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/JWct57nVLXlUX1akRVGUu5wANUo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/JiZ7vZP6CiqeOCsXO8AJRTYjzUA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/LxeSlHQz0qJgbxisMix0zDDH7og=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/NbMQfNxp+i14MQe64ug1AQxxKmY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/R4ALVKt7kPgACcwU5+GItMhx2ps=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/R5UatSAYG+jRRoiJ+nnxYZ_c9x0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/Ruxd8NP+LxM2usW9Q70I1JCIubs=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/SRa78CHPukj5UGZK3WwqBNIFlFk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/TR8tsVpv23Hjq6G84ithi_ETero=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/VgnamH2ZRMpMbcSDWNV7_dGemgk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/XN57M2ycGKM+83i5hvbzSzTOiG4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/Z06Q7jlYpFvGdqLc+p7dpBLhzr0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/ZNq0pz4_gJ3Donq9gddQ+c6bEGA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/Zn8Q81QevxICx_hwVYO7is18l7M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/bPOSTNJqvx02phpktggjyGyVeLU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/cwBlRIfmpqbAXWk+rd6d5Is+z1M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/d5_oqaorOnnSbDSG+c8FavS7JIE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/eCsDNYEXlqk+VruLd8jRUjOKKrg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/hWFeXB6_GemGpUwGTudVX2bWKkU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/mwNkD5m86gBOS80E9BDh9N2Vggg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/oPq+LNhDExd1PvJm7EG8Xyijgys=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/q4Ey4LFrGAFVQeE0ZJRJEb+V20g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/tgPtELiJ5xTyzVsAdPGgk5dHfo0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/uaxOI272VoaK+dYKNP1sdICLQQY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/ufTDGs7umBjB3Tr_0pPNj3oeTjw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mockDebug-mergeNativeLibs/zip-cache/zakUM6aBhsyiqdfADb7L2q+t9bM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageMockDebug/tmp/mockDebug/dex-renamer-state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageMockDebug/tmp/mockDebug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageMockDebug/tmp/mockDebug/zip-cache/javaResources0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/mockDebug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/mockDebug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/BasePresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/BaseView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/Injection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/MedicineApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/SplashActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/SplashActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineContract$Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineContract$View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/addmedicine/AddMedicinePresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderActivity_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderContract$Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderContract$View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderPresenter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/alarm/ReminderPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/FakeMedicineLocalDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/History.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineAlarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineDataSource$GetTaskCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineDataSource$LoadHistoryCallbacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineDataSource$LoadMedicineCallbacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineRepository$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineRepository$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineRepository$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/MedicineRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/Pills.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/local/MedicineDBHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/data/source/local/MedicinesLocalDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineActivity_ViewBinding$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineActivity_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineAdapter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineAdapter$MedicineViewHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineAdapter$MedicineViewHolder_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineAdapter$OnItemClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineContract$Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineContract$View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineFragment_ViewBinding$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicineFragment_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicinePresenter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/medicine/MedicinePresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/FilterType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/HistoryAdapter$HistoryViewHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/HistoryAdapter$HistoryViewHolder_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/HistoryAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportActivity_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportContract$Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportContract$View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportFragment_ViewBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportPresenter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportPresenter$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/report/MonthlyReportPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/utils/ActivityUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/utils/FontUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/utils/ScrollingCalendarBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/views/DayViewCheckBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/views/RobotoBoldTextView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/views/RobotoLightTextView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/mockDebug/classes/com/Shivraj/medicinetime/views/RobotoRegularTextView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/mockDebug/manifest-merger-blame-mock-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_assets/mockDebug/out/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_assets/mockDebug/out/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_assets/mockDebug/out/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/mockDebug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/mockDebug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/mockDebug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/metadata_feature_manifest/mockDebug/metadata-feature/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/navigation_json/mockDebug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/mockDebug/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/mockDebug/out/resources-mockDebug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/345c7e3755aa16864cce13fb0106ae226be2c633eb07e53f96c9c159109e07aa_7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/BasePresenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/BaseView.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/BuildConfig.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/Injection.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/MedicineApp.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/SplashActivity$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/SplashActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineContract$Presenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineContract$View.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineContract.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$10.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$3.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$4.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$5.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$6.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$7.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$8.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding$9.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/addmedicine/AddMedicinePresenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderActivity_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderContract$Presenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderContract$View.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderContract.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderFragment.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderFragment_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderPresenter$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/alarm/ReminderPresenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/FakeMedicineLocalDataSource.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/History.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineAlarm.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineDataSource$GetTaskCallback.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineDataSource$LoadHistoryCallbacks.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineDataSource$LoadMedicineCallbacks.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineDataSource.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineRepository$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineRepository$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineRepository$3.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/MedicineRepository.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/Pills.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/local/MedicineDBHelper.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/data/source/local/MedicinesLocalDataSource.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineActivity$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineActivity_ViewBinding$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineActivity_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter$MedicineViewHolder.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter$MedicineViewHolder_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter$OnItemClickListener.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineAdapter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineContract$Presenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineContract$View.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineContract.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineFragment.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineFragment_ViewBinding$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicineFragment_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicinePresenter$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/medicine/MedicinePresenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/FilterType.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/HistoryAdapter$HistoryViewHolder.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/HistoryAdapter$HistoryViewHolder_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/HistoryAdapter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportActivity_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportContract$Presenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportContract$View.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportContract.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportFragment$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportFragment.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportFragment_ViewBinding.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportPresenter$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportPresenter$2.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/report/MonthlyReportPresenter.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/utils/ActivityUtils.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/utils/FontUtil.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/utils/ScrollingCalendarBehavior.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/views/DayViewCheckBox.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/views/RobotoBoldTextView.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/views/RobotoLightTextView.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/mockDebug/out/com/Shivraj/medicinetime/views/RobotoRegularTextView.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_add.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_arrow_drop_down.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_clear.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_done.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_filter_list.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-hdpi_ic_statistics.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_add.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_arrow_drop_down.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_clear.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_done.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_filter_list.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-mdpi_ic_statistics.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_add.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_arrow_drop_down.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_clear.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_done.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_filter_list.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-v21_ic_statistics.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_add.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_arrow_drop_down.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_clear.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_done.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_filter_list.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xhdpi_ic_statistics.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_add.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_arrow_drop_down.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_clear.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_done.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_filter_list.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxhdpi_ic_statistics.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_add.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_arrow_drop_down.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_clear.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_done.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_filter_list.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable-xxxhdpi_ic_statistics.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_configure_alarm_button.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_configure_medication.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_day_view.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_status_medication.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_take_alarm_button.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_background_take_medication.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_drawable_underline.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_ic_launcher_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_icon_blister.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_icon_my_health.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_configure.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_configure_disabled.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_configure_pressed.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_not_taken.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_take.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_take_disabled.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_take_pressed.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_image_reminder_taken.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_logo.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/drawable_touch_feedback.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_activity_add_medicine.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_activity_medicine.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_activity_monthly_report.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_activity_reminder_actvity.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_component_day_view.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_fragment_add_medicine.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_fragment_history.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_fragment_medicine.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_fragment_reminder.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_row_history.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_row_medicine.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/layout_splashfile.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/menu_filter_history.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/menu_history_menu.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/menu_medicine_menu.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-hdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-hdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-mdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-mdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xhdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxhdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/raw_cuco_sound.mp3.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-af_values-af.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-am_values-am.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ar_values-ar.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-as_values-as.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-az_values-az.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-be_values-be.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-bn_values-bn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-bs_values-bs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ca_values-ca.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-cs_values-cs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-da_values-da.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-de_values-de.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-el_values-el.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-en-rAU_values-en-rAU.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-en-rCA_values-en-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-en-rGB_values-en-rGB.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-en-rIN_values-en-rIN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-en-rXC_values-en-rXC.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-es-rUS_values-es-rUS.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-es_values-es.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-et_values-et.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-fa_values-fa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-fi_values-fi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-fr-rCA_values-fr-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-gl_values-gl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-gu_values-gu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-hi_values-hi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-hy_values-hy.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-in_values-in.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-is_values-is.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-it_values-it.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-iw_values-iw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ka_values-ka.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-kk_values-kk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-kn_values-kn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-land_values-land.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-large-v4_values-large-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-lo_values-lo.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-lt_values-lt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-mk_values-mk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ml_values-ml.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ms_values-ms.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-my_values-my.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-nb_values-nb.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-night-v8_values-night-v8.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-nl_values-nl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-pa_values-pa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-pl_values-pl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-port_values-port.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-pt_values-pt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-si_values-si.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sl_values-sl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-small-v4_values-small-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sq_values-sq.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sr_values-sr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-sw_values-sw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ta_values-ta.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-te_values-te.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-th_values-th.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-tl_values-tl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-tr_values-tr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-ur_values-ur.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-uz_values-uz.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v16_values-v16.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v17_values-v17.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v18_values-v18.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v22_values-v22.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v23_values-v23.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v24_values-v24.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v25_values-v25.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v26_values-v26.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-v28_values-v28.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-vi_values-vi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-watch-v20_values-watch-v20.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-watch-v21_values-watch-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-zh-rTW_values-zh-rTW.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/mock/debug/values_values.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/mockDebug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/mockDebug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs/apk/mock/debug/app-mock-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs/apk/mock/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-mock-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/BasePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/BaseView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_sundeepk_compact_calendar_view_3_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_sundeepk_compact_calendar_view_3_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Medicine_Time_Android_App_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Medicine-Time-Android-App-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Medicine_Time_Android_App_Project.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Medicine-Time-Android-App-Project.app.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/vishwajeeth/medicinetime/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/Shivraj/medicinetime/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/BasePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/BaseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/MedicineApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/MedicineApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/addmedicine/AddMedicineActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/addmedicine/AddMedicineActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/addmedicine/AddMedicineContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/addmedicine/AddMedicineContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/addmedicine/AddMedicineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/addmedicine/AddMedicineFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/addmedicine/AddMedicinePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/addmedicine/AddMedicinePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/alarm/ReminderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/alarm/ReminderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/alarm/ReminderContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/alarm/ReminderContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/alarm/ReminderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/alarm/ReminderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/alarm/ReminderPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/alarm/ReminderPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/FakeMedicineLocalDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/FakeMedicineLocalDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/MedicineAlarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/MedicineAlarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/MedicineDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/MedicineDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/MedicineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/MedicineRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/Pills.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/Pills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/local/MedicineDBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/local/MedicineDBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/data/source/local/MedicinesLocalDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/data/source/local/MedicinesLocalDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/medicine/MedicineActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/medicine/MedicineActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/medicine/MedicineAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/medicine/MedicineAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/medicine/MedicineContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/medicine/MedicineContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/medicine/MedicineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/medicine/MedicineFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/medicine/MedicinePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/medicine/MedicinePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/FilterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/FilterType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/HistoryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/HistoryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/MonthlyReportActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/MonthlyReportActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/MonthlyReportContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/MonthlyReportContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/MonthlyReportFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/MonthlyReportFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/report/MonthlyReportPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/report/MonthlyReportPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/utils/ActivityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/utils/ActivityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/utils/FontUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/utils/FontUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/utils/ScrollingCalendarBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/utils/ScrollingCalendarBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/views/DayViewCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/views/DayViewCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/views/RobotoBoldTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/views/RobotoBoldTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/views/RobotoLightTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/views/RobotoLightTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vishwajeeth/medicinetime/views/RobotoRegularTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/views/RobotoRegularTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/mock/java/com/vishwajeeth/medicinetime/Injection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/mock/java/com/Shivraj/medicinetime/Injection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/vishwajeeth/medicinetime/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/Shivraj/medicinetime/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Shivraj\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -50,6 +943,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -70,18 +966,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/java/com/Shivraj/medicinetime/alarm/ReminderActivity.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="1cX58PB4odluM0SE8Epxx8Pxi4n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/mock/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shivraj/AndroidStudioProjects/Medicine-Time-Android-App-Project1&quot;
+  }
+}</component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -99,13 +1014,13 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -116,6 +1031,8 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Auto>
       <Hybrid>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -123,14 +1040,21 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Hybrid>
-      <Java />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
       <Native>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
@@ -148,8 +1072,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Medicine_Time_Android_App_Project.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Medicine-Time-Android-App-Project.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -157,13 +1081,13 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -174,6 +1098,8 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Auto>
       <Hybrid>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -181,20 +1107,27 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Hybrid>
-      <Java />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
       <Native>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
@@ -204,6 +1137,19 @@
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Medicine-Time-Android-App-Project.app.unitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Medicine-Time-Android-App-Project.app.unitTest" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -231,40 +1177,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1627363938294">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1627363938294" />
-    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1627363018628">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627363018628" />
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1627363579655">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627363579655" />
-    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1627363579655">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627363579655" />
-    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1627363579654">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627363579654" />
-    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1627363579655">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627363579655" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1627364423772">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627364423772" />
-    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1627363463458">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1627363463458" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
